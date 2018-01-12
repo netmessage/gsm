@@ -413,7 +413,7 @@ $lst_character['UTF8'][] = array('character'=>'ä',  'hexacode'=>'C3A4', 	'hexac
 $lst_character['UTF8'][] = array('character'=>'å',  'hexacode'=>'C3A5', 	'hexacodejs'=>'E5', 	'nb'=>2);//?
 $lst_character['UTF8'][] = array('character'=>'æ',  'hexacode'=>'C3A6', 	'hexacodejs'=>'E6', 	'nb'=>2);//?
 //$lst_character['UTF8'][] = array('character'=>'ç',  'hexacode'=>'C3A7', 	'hexacodejs'=>'E7', 	'nb'=>2);//?
-$lst_character['UTF8'][] = array('character'=>'è',  'hexacode'=>'C3A8', 	'hexacodejs'=>'E8', 	'nb'=>2);//?
+$lst_character['UTF8'][] = array('character'=>'è',  'hexacode'=>'C3A8', 	'hexacodejs'=>'E8', 	'nb'=>1);//?
 $lst_character['UTF8'][] = array('character'=>'é',  'hexacode'=>'C3A9', 	'hexacodejs'=>'E9', 	'nb'=>1);//?
 //$lst_character['UTF8'][] = array('character'=>'ê',  'hexacode'=>'C3AA', 	'hexacodejs'=>'EA', 	'nb'=>2);//?
 //$lst_character['UTF8'][] = array('character'=>'ë',  'hexacode'=>'C3AB', 	'hexacodejs'=>'EB', 	'nb'=>2);//?
